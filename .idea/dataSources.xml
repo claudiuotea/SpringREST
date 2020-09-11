@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="database" uuid="478bbe58-c2e4-4281-87f7-080d821fe70a">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:E:\Anul2\Semestrul2\Medii de proiectare si programare\labJava\src\main\resources\SQLite\database.db</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="database [2]" uuid="1bade07e-b9b4-487a-a00b-63522f5f8c00">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:E:\Anul2\Semestrul2\Medii de proiectare si programare\Java Spring Server\ApplicationData\src\main\resources\database.db</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="database [3]" uuid="2f9408ec-ddba-45cd-83ef-c947d84b8589">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:E:\Anul2\Semestrul2\Medii de proiectare si programare\Java Spring Server\database.db</jdbc-url>
+    </data-source>
+  </component>
+</project>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="application.data.Repository.UserRepositoryTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-04-06T07:02:12" hostname="DESKTOP-SVHJGJ8" time="0.091">
+  <properties/>
+  <testcase name="findUser" classname="application.data.Repository.UserRepositoryTest" time="0.091"/>
+  <system-out><![CDATA[Properties database loaded@@@
+Getting a connection to database
+jdbc:sqlite:E:\Anul2\Semestrul2\Medii de proiectare si programare\labJava\src\main\resources\SQLite\database.db
+find user: true
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

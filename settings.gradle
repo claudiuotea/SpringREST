@@ -1,0 +1,10 @@
+rootProject.name = 'labJava'
+include 'ApplicationModel'
+include 'ApplicationServices'
+include 'ApplicationServices'
+include 'ApplicationData'
+include 'ApplicationNetworking'
+include 'ApplicationServer'
+include 'ApplicationClient'
+include 'RestSPRING'
+

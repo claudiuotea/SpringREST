@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="labJava.ApplicationClient.main" target="1.8" />
+      <module name="labJava.ApplicationClient.test" target="1.8" />
+      <module name="labJava.ApplicationServer.main" target="1.8" />
+      <module name="labJava.ApplicationServer.test" target="1.8" />
+      <module name="labJava.ApplicationServices.main" target="1.8" />
+      <module name="labJava.ApplicationServices.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

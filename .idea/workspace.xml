@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="70ac6bbb-62ce-4309-8242-086e0f8219a5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApplicationData/build/classes/java/main/application/data/EchipaRepo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApplicationData/build/classes/java/main/application/data/ParticipantRepo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApplicationData/build/classes/java/main/application/data/Repository/UserRepo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApplicationData/build/classes/java/main/application/data/Repository/UserRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApplicationData/build/classes/java/main/application/data/Validator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApplicationData/build/classes/java/main/application/data/ValidatorParticipant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApplicationData/build/libs/ApplicationData-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/ApplicationData/build/libs/ApplicationData-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApplicationData/src/main/java/application/data/EchipaRepo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApplicationData/src/main/java/application/data/ParticipantRepo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApplicationData/src/main/java/application/data/Repository/UserRepo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApplicationData/src/main/java/application/data/Repository/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApplicationData/src/main/java/application/data/Validator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApplicationData/src/main/java/application/data/ValidatorParticipant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApplicationData/src/test/java/application/data/Repository/UserRepositoryTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApplicationModel/build/classes/java/main/model/Echipa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApplicationModel/build/classes/java/main/model/MessageAlert.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApplicationModel/build/classes/java/main/model/Participant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApplicationModel/build/classes/java/main/model/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApplicationModel/build/libs/ApplicationModel-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/ApplicationModel/build/libs/ApplicationModel-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApplicationModel/src/main/java/model/Echipa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApplicationModel/src/main/java/model/MessageAlert.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApplicationModel/src/main/java/model/Participant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApplicationModel/src/main/java/model/User.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="database" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="database [2]" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/ApplicationServices">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Tag Library Descriptor" />
+        <option value="JavaFXApplication" />
+        <option value="FxmlFile" />
+        <option value="Arquillian JUnit Test Class" />
+        <option value="JUnit4 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Zfo0ItmTUitzuSFll6efDNM169" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlite" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="application.data.Repository" />
+      <recent name="application.server" />
+      <recent name="model" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Anul2\Semestrul2\Medii de proiectare si programare\labJava\ApplicationClient\src\main\resources" />
+      <recent name="E:\Anul2\Semestrul2\Medii de proiectare si programare\labJava\ApplicationServer\src\main\resources" />
+      <recent name="E:\Anul2\Semestrul2\Medii de proiectare si programare\labJava\ApplicationServices" />
+      <recent name="E:\Anul2\Semestrul2\Medii de proiectare si programare\labJava" />
+      <recent name="E:\Anul2\Semestrul2\Medii de proiectare si programare\labJava\src\main\resources\SQLite" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Anul2\Semestrul2\Medii de proiectare si programare\Java SpringRest" />
+      <recent name="E:\Anul2\Semestrul2\Medii de proiectare si programare\Java Spring Server" />
+      <recent name="E:\Anul2\Semestrul2\Medii de proiectare si programare\Java Spring Server\ApplicationData\src\main\resources" />
+      <recent name="E:\Anul2\Semestrul2\Medii de proiectare si programare\labJava\ApplicationData" />
+      <recent name="E:\Anul2\Semestrul2\Medii de proiectare si programare\labJava\ApplicationServer" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="model" />
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="app.network.objectProtocol" />
+      <recent name="Repository" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.StartRestService">
+    <configuration name="StartClient" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="app.client.StartClient" />
+      <module name="labJava.ApplicationClient.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="app.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StartRestClient" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="start.StartRestClient" />
+      <module name="labJava.RestSPRING.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="start.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="app.services.rest.test" />
+      <module name="labJava.RestSPRING.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="app.services.rest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="labJava [dependencies]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="dependencies" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="labJava" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="StartRestService" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false" temporary="true" nameIsGenerated="true">
+      <module name="labJava.RestSPRING.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="start.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="start.StartRestService" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.StartClient" />
+      <item itemvalue="Application.test" />
+      <item itemvalue="Application.StartRestClient" />
+      <item itemvalue="Gradle.labJava [dependencies]" />
+      <item itemvalue="Gradle.labJava" />
+      <item itemvalue="Spring Boot.StartRestService" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.StartRestService" />
+        <item itemvalue="Gradle.labJava [dependencies]" />
+        <item itemvalue="Application.StartRestClient" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Gradle.labJava" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="70ac6bbb-62ce-4309-8242-086e0f8219a5" name="Default Changelist" comment="" />
+      <created>1585239284597</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585239284597</updated>
+      <workItem from="1585239289278" duration="6544000" />
+      <workItem from="1585246154131" duration="7891000" />
+      <workItem from="1585259886499" duration="9309000" />
+      <workItem from="1585747501807" duration="4068000" />
+      <workItem from="1585752187003" duration="20013000" />
+      <workItem from="1585791784734" duration="13131000" />
+      <workItem from="1585854516435" duration="412000" />
+      <workItem from="1585905654769" duration="1929000" />
+      <workItem from="1586026838663" duration="62000" />
+      <workItem from="1586030298030" duration="28000" />
+      <workItem from="1586092411346" duration="23614000" />
+      <workItem from="1586144719250" duration="10377000" />
+      <workItem from="1586157335524" duration="12150000" />
+      <workItem from="1586242273308" duration="19123000" />
+      <workItem from="1586456394315" duration="12382000" />
+      <workItem from="1587891629903" duration="127000" />
+      <workItem from="1587899138412" duration="152000" />
+      <workItem from="1587978496811" duration="5351000" />
+      <workItem from="1588079376453" duration="42000" />
+      <workItem from="1588084759531" duration="3099000" />
+      <workItem from="1588188201608" duration="25000" />
+      <workItem from="1588188901128" duration="14000" />
+      <workItem from="1589025518308" duration="5853000" />
+      <workItem from="1589034393014" duration="179000" />
+      <workItem from="1589035541293" duration="2175000" />
+      <workItem from="1589042302555" duration="2069000" />
+      <workItem from="1589487711979" duration="17539000" />
+      <workItem from="1590132948423" duration="73000" />
+      <workItem from="1590491694827" duration="1529000" />
+      <workItem from="1590521831299" duration="1909000" />
+      <workItem from="1590567084690" duration="2825000" />
+      <workItem from="1590742434451" duration="671000" />
+      <workItem from="1593908123598" duration="44000" />
+      <workItem from="1597839267337" duration="42000" />
+      <workItem from="1599822919113" duration="2021000" />
+      <workItem from="1599843224270" duration="1085000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="618" y="148" key="#StartRestService" timestamp="1599843235036">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="618" y="148" key="#StartRestService/0.0.1920.1040@0.0.1920.1040" timestamp="1599843235036" />
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599844179285">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599844179285" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1597839304386">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1597839304386" />
+    <state width="1877" height="275" key="GridCell.Tab.0.bottom" timestamp="1599844303431">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="275" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599844303431" />
+    <state width="1877" height="275" key="GridCell.Tab.0.center" timestamp="1599844303431">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="275" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599844303431" />
+    <state width="1877" height="275" key="GridCell.Tab.0.left" timestamp="1599844303431">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="275" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599844303431" />
+    <state width="1877" height="275" key="GridCell.Tab.0.right" timestamp="1599844303431">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="275" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599844303431" />
+    <state width="1877" height="275" key="GridCell.Tab.1.bottom" timestamp="1599844303431">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="275" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599844303431" />
+    <state width="1877" height="275" key="GridCell.Tab.1.center" timestamp="1599844303431">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="275" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599844303431" />
+    <state width="1877" height="275" key="GridCell.Tab.1.left" timestamp="1599844303431">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="275" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599844303431" />
+    <state width="1877" height="275" key="GridCell.Tab.1.right" timestamp="1599844303431">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="275" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599844303431" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1597839267749">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597839267749" />
+  </component>
+</project>
